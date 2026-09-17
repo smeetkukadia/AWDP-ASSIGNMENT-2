@@ -44,7 +44,7 @@
       <div class="hero-copy reveal">
         <div class="status"><span></span> Available for opportunities</div>
         <p class="eyebrow">HELLO, I'M</p>
-        <h1>Smeet <span>Boii</span></h1>
+        <h1>Smeet <span>Kukadia</span></h1>
         <h2>Developer <i>•</i> Problem Solver <i>•</i> Tech Explorer</h2>
         <p class="hero-text">
           I enjoy building clean, useful web experiences and learning how technology works
@@ -67,7 +67,7 @@
         <div class="terminal-top"><span></span><span></span><span></span><b>~/smeet/portfolio</b></div>
         <div class="terminal-body">
           <p><em>const</em> developer = {</p>
-          <p class="indent">name: <strong>"Smeet Boii"</strong>,</p>
+          <p class="indent">name: <strong>"Smeet Kukadia"</strong>,</p>
           <p class="indent">focus: <strong>"Web Development"</strong>,</p>
           <p class="indent">learning: <strong>"Always"</strong>,</p>
           <p class="indent">coffee: <strong>true</strong></p>
@@ -84,7 +84,7 @@
       </div>
       <div class="about-grid">
         <div class="about-card glass">
-          <div class="avatar">SB</div>
+          <div class="avatar">SK</div>
           <div>
             <h3>A self-taught developer</h3>
             <p>I like turning ideas into working interfaces, experimenting with code and understanding systems by building and taking them apart.</p>
@@ -222,7 +222,7 @@
   </main>
 
   <footer class="footer">
-    <div><strong>Smeet<span class="accent">.</span></strong> Boii</div>
+    <div><strong>Smeet<span class="accent">.</span></strong> Kukadia</div>
     <p>Designed & built with curiosity.</p>
     <span>© 2026</span>
   </footer>
